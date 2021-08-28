@@ -149,7 +149,7 @@ def close_win(window):
 # Game Window
 window = Tk()
 window.title('Snake')
-window.iconbitmap('D:\\Python\\Game\\images\\icon.ico')
+window.iconbitmap('D:\\Python\\images\\icon.ico')
 window.resizable(False, False)
 
 # Score Board
